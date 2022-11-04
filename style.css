@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Titillium Web', sans-serif;
+    background: lightskyblue;
+}
+ .header_div
+{
+    background: lightblue;
+    color: black;
+}
+ .header_div p{
+
+    font-weight: bold;
+    font-size: 17px;
+ }
+ .Main_Div button{
+
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+    width: 100px;
+    background-color: grey;
+ }
+ .copy_right_footer
+ {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-shadow: 7px 7px 7px grey;
+    text-align: center;
+ }
